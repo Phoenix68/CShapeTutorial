@@ -1,0 +1,3 @@
+/Users/tom01011101/Documents/GitHub/CShapeTutorial/CShapeTutorial/CShapeTutorial/bin/Release/CShapeTutorial.exe
+/Users/tom01011101/Documents/GitHub/CShapeTutorial/CShapeTutorial/CShapeTutorial/obj/x86/Release/CShapeTutorial.csproj.CoreCompileInputs.cache
+/Users/tom01011101/Documents/GitHub/CShapeTutorial/CShapeTutorial/CShapeTutorial/obj/x86/Release/CShapeTutorial.exe

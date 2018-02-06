@@ -1,0 +1,5 @@
+/Users/tom01011101/Documents/GitHub/CShapeTutorial/CShapeTutorial/CShapeTutorial/bin/Debug/CShapeTutorial.exe
+/Users/tom01011101/Documents/GitHub/CShapeTutorial/CShapeTutorial/CShapeTutorial/bin/Debug/CShapeTutorial.pdb
+/Users/tom01011101/Documents/GitHub/CShapeTutorial/CShapeTutorial/CShapeTutorial/obj/x86/Debug/CShapeTutorial.csproj.CoreCompileInputs.cache
+/Users/tom01011101/Documents/GitHub/CShapeTutorial/CShapeTutorial/CShapeTutorial/obj/x86/Debug/CShapeTutorial.exe
+/Users/tom01011101/Documents/GitHub/CShapeTutorial/CShapeTutorial/CShapeTutorial/obj/x86/Debug/CShapeTutorial.pdb

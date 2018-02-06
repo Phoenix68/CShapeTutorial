@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{9C9E7507-1DAE-4D80-B7B9-E03247CA83DF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../DataTypeApplication.cs">
+    <Files>
+      <File FileName="../DataTypeApplication.cs" Line="18" Column="57" />
+      <File FileName="CShapeTutorial/Program.cs" Line="10" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CShapeTutorial PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
