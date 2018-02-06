@@ -4,8 +4,8 @@ namespace HelloWorldApplication{
     class HelloWorld{
         static void Main(string[] args){
             /* my first program in C# */
-            console.WriteLine("Hello World");
-            console.Readkey();
+            Console.WriteLine("Hello World");
+            Console.Readkey();
         }
     }
 }
